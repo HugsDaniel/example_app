@@ -1,7 +1,7 @@
 plugins:
   rubocop:
     enabled: true
-    channel: rubocop-0-79
+    channel: rubocop-1-35
   eslint:
     enabled: true
   scss-lint:
