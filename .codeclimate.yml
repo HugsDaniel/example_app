@@ -1,0 +1,10 @@
+plugins:
+  rubocop:
+    enabled: true
+    channel: rubocop-0-79
+  eslint:
+    enabled: true
+  scss-lint:
+    enabled: true
+  brakeman:
+    enabled: true
